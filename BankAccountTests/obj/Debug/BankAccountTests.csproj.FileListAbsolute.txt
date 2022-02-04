@@ -1,0 +1,17 @@
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\BankAccountTests.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\BankAccountTests.pdb
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\BankAccount.exe
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\BankAccount.pdb
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\BankAccount.exe.config
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\GitHub\BankAccount\BankAccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\GitHub\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.csprojAssemblyReference.cache
+D:\C#\GitHub\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.csproj.CopyComplete
+D:\C#\GitHub\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.dll
+D:\C#\GitHub\BankAccount\BankAccountTests\obj\Debug\BankAccountTests.pdb
